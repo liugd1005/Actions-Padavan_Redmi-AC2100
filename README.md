@@ -2,7 +2,7 @@
 
 - Padavan源码是[MeIsReallyBa/padavan-4.4](https://github.com/MeIsReallyBa/padavan-4.4)。
 - Github Actions参考自[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)&[hanwckf/scut_padavan_build](https://github.com/hanwckf/scut_padavan_build)。
-- 编译目标为Redmi-AC2100
+- 编译目标为R2100/RM21OO
 - 默认登陆地址[10.10.10.1](http://10.10.10.1),登录名admin/admin
 
 ### Actions secrets配置
