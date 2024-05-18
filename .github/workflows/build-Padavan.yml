@@ -1,4 +1,4 @@
-name: Build Padavan
+name: Build RM2100 Padavan-4.4
 
 on:
   repository_dispatch:
