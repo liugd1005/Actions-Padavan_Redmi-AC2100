@@ -157,7 +157,7 @@ jobs:
         ##VPN服务##
         echo "CONFIG_FIRMWARE_INCLUDE_SOFTETHERVPN_SERVER=y" >> .config #
         echo "CONFIG_FIRMWARE_INCLUDE_SOFTETHERVPN_CLIENT=y" >> .config #
-        echo "CONFIG_FIRMWARE_INCLUDE_SOFTETHERVPN_CMD" >> .config #
+        echo "CONFIG_FIRMWARE_INCLUDE_SOFTETHERVPN_CMD=y" >> .config #
         ##VPN服务##
         ##广告管理##
         echo "CONFIG_FIRMWARE_INCLUDE_ADBYBY=n" >> .config #adbyby plus+
