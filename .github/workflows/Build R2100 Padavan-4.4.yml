@@ -86,7 +86,7 @@ jobs:
         else
         exit 1
         fi
-        #cp -f public/MI-R4A.config ${{ env.DIR }}/trunk/configs/templates
+        #cp -f public/R2100.config ${{ env.DIR }}/trunk/configs/templates
         cp -f public/adguardhome.sh ${{ env.DIR }}/trunk/user/adguardhome
         cd ${{ env.DIR }}/trunk
         for m in $TNAME;
