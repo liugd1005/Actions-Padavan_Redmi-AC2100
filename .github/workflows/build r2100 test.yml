@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/liugd1005/padavan-4.4
+  REPO_URL: https://github.com/MeIsReallyBa/padavan-4.4
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
   TNAME: R2100
