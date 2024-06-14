@@ -1,15 +1,15 @@
-name: Build RM2100 Padavan-4.4
+name: Build R2100 Padavan-4.4
 
 on:
   repository_dispatch:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/MeIsReallyBa/padavan-4.4
+  REPO_URL: https://github.com/liugd1005/padavan-4.4
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
-  TNAME: RM2100
-  CONFIG_FILE: RM2100.config
+  TNAME: R2100
+  CONFIG_FILE: R2100.config
   DIY_SH: diy.sh
 
 jobs:
