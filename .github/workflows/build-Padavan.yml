@@ -1,11 +1,11 @@
-name: Build R2100 Padavan-4.4
+name: Build R2100 Padavan-4.4 for vb1980
 
 on:
   repository_dispatch:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/liugd1005/padavan-4.4
+  REPO_URL: https://github.com/vb1980/padavan-4.4
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
   TNAME: R2100
