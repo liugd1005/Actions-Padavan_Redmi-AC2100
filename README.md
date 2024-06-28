@@ -3,7 +3,7 @@
 - Padavan源码是[MeIsReallyBa/padavan-4.4](https://github.com/MeIsReallyBa/padavan-4.4)。
 - Github Actions参考自[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)&[hanwckf/scut_padavan_build](https://github.com/hanwckf/scut_padavan_build)。
 - 编译目标为R2100/RM2100
-- 默认登陆地址[10.10.10.1](http://10.10.10.1),登录名admin/admin
+- 默认登陆地址[192.168.2.1](http://192.168.2.1),登录名admin/admin
 
 
 ### Actions secrets配置
